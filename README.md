@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eric
 - 👀 I’m interested in web development, video game development, and machine learning
 - 🌱 I’m currently learning Godot, PostgreSQL DBA-isms
-- 💞️ I’m currently bugging people for help on Next.js, GraphQL, Kubernetes, Google Cloud Platform
+- 💞️ I’m currently bugging people for help on Next.js, Kubernetes, Google Cloud Platform, Redis
 - 📫 How to reach me: ericdrosas@gmail.com
 
 <!---
