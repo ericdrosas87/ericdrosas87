@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eric
-- 👀 I’m interested in web development, video game development, and machine learning
-- 🌱 I’m currently learning Godot, Web 3.0, Data Federation, and DBA-isms
-- 💞️ I’m currently bugging people for help on Next.js, Kubernetes, Google Cloud Platform, Redis
+- 👀 I’m interested in web development, video game development, and ethical LLM AI
+- 🌱 I’m currently learning Godot, cloud-ops, Kubernetes/Terraform, and DBA-isms
+- 💞️ I’m currently bugging people for help on Cloud Architecture, Godot, Craft module/plugin development
 - 📫 How to reach me: ericdrosas@gmail.com
 
 <!---
